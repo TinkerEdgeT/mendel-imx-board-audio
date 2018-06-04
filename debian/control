@@ -1,0 +1,14 @@
+Source: aiy-board-audio
+Maintainer: AIY Projects <support-aiyprojects@google.com>
+
+Package: aiy-board-audio
+Section: sound
+Priority: required
+Architecture: all
+Depends: pulseaudio
+Description: Audio and routing settings for the AIY Board
+ This package is a semi-metapackage that includes audio route settings,
+ as well as dependencies on pulseaudio.
+ .
+ This package and it's dependencies are required to make the AIY
+ Board's audio components function as intended.
