@@ -1,6 +1,8 @@
 Source: aiy-board-audio
 Maintainer: AIY Projects <support-aiyprojects@google.com>
 Build-Depends: debhelper
+Section: sound
+Priority: optional
 
 Package: aiy-board-audio
 Section: sound
