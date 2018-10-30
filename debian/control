@@ -6,7 +6,7 @@ Priority: optional
 
 Package: aiy-board-audio
 Section: sound
-Priority: required
+Priority: optional
 Architecture: all
 Depends: pulseaudio
 Description: Audio and routing settings for the AIY Board
