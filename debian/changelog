@@ -1,5 +1,11 @@
-aiy-board-audio (0.1) UNRELEASED; urgency=medium
+aiy-board-audio (0.2) animal; urgency=medium
+
+  * Updates UCM rules and sets routes more correctly.
+
+ -- AIY Projects <support-aiyprojects@google.com>  Thu, Dec 06 2018 13:51:00 -0800
+
+aiy-board-audio (0.1) animal; urgency=medium
 
   * Initial release.
 
- -- June Tate-Gans <jtgans@google.com>  Mon, 04 Jun 2018 16:14:00 -0800
+ -- AIY Projects <support-aiyprojects@google.com>  Mon, 04 Jun 2018 16:14:00 -0800
