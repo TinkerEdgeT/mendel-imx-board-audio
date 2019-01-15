@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: aiy-board-audio
-Source: https://aiyprojects.withgoogle.com
+Upstream-Name: imx-board-audio
+Source: https://aiyprojects.googlesource.com/imx-board-audio
 
 Files: *
 Copyright: Copyright 2018 Google, LLC <support-aiyprojects@google.com>
