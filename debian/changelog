@@ -1,3 +1,9 @@
+imx-board-audio (1-1) mendel-beaker; urgency=medium
+
+  * Cut for beaker release and normalization of version.
+  
+ -- AIY Projects <support-aiyprojects@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
+
 imx-board-audio (0.2) animal; urgency=medium
 
   * Updates UCM rules and sets routes more correctly.
