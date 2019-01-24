@@ -1,3 +1,10 @@
+imx-board-audio (2-1) mendel-beaker; urgency=medium
+
+  * Disable timer scheduling in pulseaudio.
+  * Fix UCM rules to allow headphones at boot time.
+
+ -- AIY Projects <support-aiyprojects@google.com>  Thu, 24 Jan 2019 13:59:09 -0800
+
 imx-board-audio (1-1) mendel-beaker; urgency=medium
 
   * Cut for beaker release and normalization of version.
