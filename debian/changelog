@@ -1,3 +1,9 @@
+imx-board-audio (3-1) mendel-beaker; urgency=medium
+
+  * Remove AIY moniker to match rebrand.
+
+ -- AIY Projects <support-aiyprojects@google.com>  Wed, 13 Feb 2019 11:15:09 -0800
+
 imx-board-audio (2-1) mendel-beaker; urgency=medium
 
   * Disable timer scheduling in pulseaudio.
