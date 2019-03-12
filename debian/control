@@ -1,5 +1,5 @@
 Source: imx-board-audio
-Maintainer: AIY Projects <support-aiyprojects@google.com>
+Maintainer: AIY Projects <coral-support@google.com>
 Build-Depends: debhelper
 Section: sound
 Priority: optional
