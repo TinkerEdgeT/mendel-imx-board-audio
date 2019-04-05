@@ -27,7 +27,7 @@ imx-board-audio (0.2) animal; urgency=medium
 
   * Updates UCM rules and sets routes more correctly.
 
- -- Coral <coral-support@google.com>  Thu, Dec 06 2018 13:51:00 -0800
+ -- Coral <coral-support@google.com>  Thu, 06 Dec 2018 13:51:00 -0800
 
 imx-board-audio (0.1) animal; urgency=medium
 
