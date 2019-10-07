@@ -1,3 +1,9 @@
+imx-board-audio (5-1) mendel-day; urgency=medium
+
+  * Cut for day release.
+
+ -- Coral <coral-support@google.com>  Mon, 07 Oct 2019 13:22:03 -0500
+
 imx-board-audio (4-1) mendel-chef; urgency=medium
 
   * Cut for chef release
