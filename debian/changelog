@@ -1,3 +1,11 @@
+imx-board-audio (5-2) mendel-eagle; urgency=medium
+
+  * Set default audio sink to the codec.
+  * Add udev rules to give non-root users access to device nodes like
+    force_hp_detect.
+
+ -- Coral <coral-support@google.com>  Wed, 20 Jan 2021 14:20:04 -0800
+
 imx-board-audio (5-1) mendel-day; urgency=medium
 
   * Cut for day release.
